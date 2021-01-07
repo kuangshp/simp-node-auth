@@ -1,0 +1,31 @@
+{
+  "name": "simp-node-auth",
+  "version": "0.0.1",
+  "description": "node-web密码加密",
+  "main": "lib/index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [
+    "node",
+    "auth",
+    "simp-node-auth",
+    "node-password",
+    "crypto",
+    "node-web",
+    "typescript"
+  ],
+  "homepage": "https://github.com/kuangshp/simp-node-auth",
+  "author": "kuangshp@126.com",
+  "license": "MIT",
+  "dependencies": {
+    "crypto": "^1.0.1"
+  },
+  "devDependencies": {
+    "@types/node": "^12.6.8",
+    "editorconfig": "^0.15.3"
+  },
+  "files": [
+    "lib/**/*"
+  ]
+}
